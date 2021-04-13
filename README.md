@@ -9,8 +9,4 @@
 8. To start a coordinator: make replica node=<node_number> port=<port_numer> replicas.txt
 
 # Tasks Distribution:
-1. Kamal Kumawat: Made a client program, Set up sockets between replicas, Implemented file logging and loggers, Handled write requests, Handled read requests, Handled read repair, Implemented Paritioner function, Handled how timestamps are implemented. 
-
-# Completion Status:
-1. Code is tested on remote.cs
-2. Working all test cases
+1. Made a client program, Set up sockets between replicas, Implemented file logging and loggers, Handled write requests, Handled read requests, Handled read repair, Implemented Paritioner function, Handled how timestamps are implemented. 
